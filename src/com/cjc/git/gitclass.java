@@ -6,5 +6,10 @@ public class gitclass {
 		
 		System.out.println("This is Git");
 	}
+	public void m1(){
+		
+		System.out.println("My name is Ayesha")
+	}
+	
 
 }
